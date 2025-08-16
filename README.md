@@ -6,23 +6,23 @@ A simple and efficient Password Generator built to help you create secure, custo
 
 ## ✨ Features
 
-Generate strong, random passwords
+* Generate strong, random passwords
 
-Choose length and character types (uppercase, lowercase, numbers, symbols)
+* Choose length and character types (uppercase, lowercase, numbers, symbols)
 
-Copy generated password to clipboard in one click
+* Copy generated password to clipboard in one click
 
-Responsive, clean, and minimal UI
+* Responsive, clean, and minimal UI
 
 ---
 
 ## 🛠️ Tech Stack
 
-HTML5
+* HTML5
 
-CSS3
+* CSS3
 
-JavaScript (Vanilla JS)
+* JavaScript (Vanilla JS)
 
 ---
 
@@ -42,13 +42,13 @@ No additional setup required.
 
 ## 🎯 Usage
 
-Select your desired password length
+* Select your desired password length
 
-Choose the character options (uppercase, lowercase, numbers, symbols)
+* Choose the character options (uppercase, lowercase, numbers, symbols)
 
-Click Generate Password
+* Click Generate Password
 
-Copy it to your clipboard with one click
+* Copy it to your clipboard with one click
 
 ---
 
@@ -62,7 +62,7 @@ Password-Generator/
 ---
 
 ## 🖼️ Demo
-> 🔗 [Live Demo]()
+> 🔗 [Live Demo](https://password-generator-by-navni.netlify.app/)
 
 ---
 
