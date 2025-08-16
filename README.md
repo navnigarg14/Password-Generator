@@ -1,10 +1,10 @@
-🔐 Password Generator
+## 🔐 Password Generator
 
 A simple and efficient Password Generator built to help you create secure, customizable passwords instantly.
 
 ---
 
-✨ Features
+## ✨ Features
 
 Generate strong, random passwords
 
@@ -16,7 +16,7 @@ Responsive, clean, and minimal UI
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 HTML5
 
@@ -26,7 +26,7 @@ JavaScript (Vanilla JS)
 
 ---
 
-🚀 Getting Started
+## 🚀 Getting Started
 1. Clone the Repository
 git clone https://github.com/navnigarg14/Password-Generator.git
 
@@ -40,7 +40,7 @@ No additional setup required.
 
 ---
 
-🎯 Usage
+## 🎯 Usage
 
 Select your desired password length
 
@@ -52,7 +52,7 @@ Copy it to your clipboard with one click
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 Password-Generator/
 │── index.html       # Main HTML file
 │── style.css        # Styling
@@ -61,5 +61,11 @@ Password-Generator/
 
 ---
 
-👨‍💻 Author
-Navni Garg
+## 🖼️ Demo
+> 🔗 [Live Demo]()
+
+---
+
+## 🙋‍♀️ Author
+**Navni Garg**
+📧 [LinkedIn](https://www.linkedin.com/in/navnigarg14/)
