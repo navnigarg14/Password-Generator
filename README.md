@@ -52,6 +52,3 @@ Password-Generator/
 
 👨‍💻 Author
 Navni Garg
-Inspired by the need for secure and easy-to-generate passwords
-
-Thanks to open-source resources and contributors
